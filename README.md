@@ -7,9 +7,9 @@ I trained the Model over 2000 Steps and used the Freezed Inference Graph for doi
 
 Please Go Through :---
 
-** MASK_RCNN_INception V2_object_detection_tutorial Notebook **
-![**Inception V2 Research paper**](https://arxiv.org/pdf/1512.00567v2.pdf)
-**Mask RCNN Research Paper** 
+- ** MASK_RCNN_INception V2_object_detection_tutorial Notebook **
+- **Inception V2 Research paper**
+- **Mask RCNN Research Paper** 
 
 The repository includes:
 * Generate training data for the model
