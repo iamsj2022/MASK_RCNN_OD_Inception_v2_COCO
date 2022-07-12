@@ -32,7 +32,7 @@ The repository includes:
 
 Output :--
 
-<img>https://github.com/iamsj2022/MASK_RCNN_OD_Inception_v2_COCO/blob/main/Mask_RCNN.png</img>
+![Model](https://github.com/iamsj2022/MASK_RCNN_OD_Inception_v2_COCO/blob/main/Mask_RCNN.png)
 
 
 
