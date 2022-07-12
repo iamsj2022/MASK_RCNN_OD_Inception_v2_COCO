@@ -34,7 +34,18 @@ Output :--
 
 ![Model](https://github.com/iamsj2022/MASK_RCNN_OD_Inception_v2_COCO/blob/main/Mask_RCNN.png)
 
-
+## Citation
+Use this bibtex to cite this repository:
+```
+@misc{matterport_maskrcnn_2017,
+  title={Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow using COCO},
+  author={Shashi Jha},
+  year={2022},
+  publisher={Github},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/iamsj2022/MASK_RCNN_OD_Inception_v2_COCO}},
+}
+```
 
 # MaskRCNN custom dataset module
 
