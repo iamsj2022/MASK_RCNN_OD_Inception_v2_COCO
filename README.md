@@ -22,17 +22,17 @@ The repository includes:
 
 #### How to run :-- 
 
-- 1. Follow the Steps Given here *with modification as per your need* https://pastebin.com/YDgbqzTx
-- 2. After Training the Model for 3-4 hours (**I have trained the model for 2000 steps it took around 3 hours for me**) but the preferred Steps should be >10000 Steps
-- 3. Freeze the Model Inference Graph
-- 4. Open the Notebook Follow the Steps (**https://github.com/iamsj2022/MASK_RCNN_OD_Inception_v2_COCO/blob/main/models/research/MASK_RCNN_INception%20V2_object_detection_tutorial.ipynb**) 
-- 5. Prediction 
-- 6. Deploy 
+- Follow the Steps Given here *with modification as per your need* https://pastebin.com/YDgbqzTx
+- After Training the Model for 3-4 hours (**I have trained the model for 2000 steps it took around 3 hours for me**) but the preferred Steps should be >10000 Steps
+- Freeze the Model Inference Graph
+- Open the Notebook Follow the Steps (**https://github.com/iamsj2022/MASK_RCNN_OD_Inception_v2_COCO/blob/main/models/research/MASK_RCNN_INception%20V2_object_detection_tutorial.ipynb**) 
+- Prediction 
+- Deploy 
 
 
 Output :--
 
-![alt text]https://github.com/iamsj2022/MASK_RCNN_OD_Inception_v2_COCO/blob/main/Mask_RCNN.png
+<img>https://github.com/iamsj2022/MASK_RCNN_OD_Inception_v2_COCO/blob/main/Mask_RCNN.png</img>
 
 
 
